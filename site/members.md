@@ -335,9 +335,9 @@ members:
   skills: "*"
 
 - email: palash16064
-  name: palash16064
+  name: Palash Aggrawal
   github: Cosmopal
-  skills: Android, Java (NOT GUI), Python
+  skills: Java, Python, Kotlin, Android, Firebase, Django, Machine Learning, Deep Learning, NLP, Product Design, Analytics, In general dev love or frustration :p
 
 - email: paridhi16065
   name: paridhi16065
